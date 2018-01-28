@@ -1,0 +1,32 @@
+<ColorEfexPro4_preset>
+	<filter name="Bring_Out_Details">
+		<parameter name="strengthFactor" value="85" valueType="float"/>
+		<parameter name="contrast" value="85" valueType="float"/>
+		<parameter name="saturation" value="8.5" valueType="float"/>
+		<parameter name="DiameterComboBox" value="2" valueType="int"/>
+		<parameter name="protect_shadows" value="1" valueType="float"/>
+		<parameter name="protect_hilights" value="0" valueType="float"/>
+		<parameter name="baseFill" value="0.35" valueType="float"/>
+		<parameter name="wholeFilterDeactivated" value="0" valueType="int"/>
+	</filter>
+	<filter name="TonalContrast_3">
+		<parameter name="strength0_hi" value="20" valueType="float"/>
+		<parameter name="strength0_med" value="10" valueType="float"/>
+		<parameter name="strength0_low" value="0" valueType="float"/>
+		<parameter name="saturation" value="0" valueType="float"/>
+		<parameter name="TCTypeCombo" value="2" valueType="int"/>
+		<parameter name="protect_shadows" value="0" valueType="float"/>
+		<parameter name="protect_hilights" value="0" valueType="float"/>
+		<parameter name="baseFill" value="0.3" valueType="float"/>
+		<parameter name="wholeFilterDeactivated" value="0" valueType="int"/>
+	</filter>
+	<group name="general">
+		<key name="name" type="string" value="Clear Up Strong"/>
+		<key name="uid" type="string" value="2016-06-27T15:06:3982175729"/>
+		<key name="tags" type="string_array">
+			<string value="Custom"/>
+			<string value="All"/>
+		</key>
+	</group>
+</ColorEfexPro4_preset>
+
