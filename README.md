@@ -1,4 +1,4 @@
-# NikColorEfexProPresets
+# Nik Color Efex Pro Presets
 Presets for photo post processing with the software "Nik Color Efex Pro"
 
 Clear Up Flat.np:
